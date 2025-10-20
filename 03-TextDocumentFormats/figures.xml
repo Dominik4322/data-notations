@@ -23,4 +23,16 @@
             <perimeter>4 * side</perimeter>
         </formulas>
     </figure>
+    <figure>
+        <name>Rectangle</name>
+        <type>2D</type>
+        <properties>
+            <property>Side Length</property>
+            <property>Hight Length</property>
+        </properties>
+        <formulas>
+            <area>side * hight</area>
+            <perimeter>2 * side + 2 * hight</perimeter>
+        </formulas>
+    </figure>
 </geometricFigures>

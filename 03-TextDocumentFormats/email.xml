@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message>
+    <sender>
+        <mail>johndoe@email.com</mail>
+        <name>John Doe</name>
+    </sender>
+    <recipient>
+        <mail>janedoe@email.com</mail>
+        <name>Jane Doe</name>
+    </recipient>
+    <subject>Test Message</subject>
+    <messageBody>This message is a test message</messageBody>
+</message>

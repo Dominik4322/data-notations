@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <train name="Koleje Małopolskie" id="23849 SKA2">
+        <properties>
+            <space unit="seats" >150</space>
+            <speed unit="km/h">300</speed>
+            <weight unit="t">500</weight>
+        </properties>
+    </train>
+    <car name="Audi A3">
+        <properties>
+            <space unit="seats">5</space>
+            <speed unit="km/h">130</speed>
+            <weight unit="t">1,2</weight>
+        </properties>
+    </car>
+    <bus id="Hy789">
+        <properties>
+            <space unit="seats">40</space>
+            <speed unit="km/h">70</speed>
+            <weight unit="t">10</weight>
+        </properties>
+    </bus>
+</transport>
