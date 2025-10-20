@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Gucci",
+        "founded": 1949,
+        "headquarters": "Milan, Italy",
+        "employees": 20000,
+        "products": [
+            "Handbags",
+            "Shoes",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "New Balance",
+        "founded": 1906,
+        "headquarters": "Boston, Massachusetts",
+        "employees": 10000,
+        "products": [
+            "Footwear",
+            "Accessories",
+            "Sportswear"
+        ]
     }
 ]

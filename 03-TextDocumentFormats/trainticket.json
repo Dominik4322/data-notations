@@ -1,0 +1,9 @@
+{
+
+    "id": 254044599,
+    "isLate": true,
+    "route": "Tunel - Kraków Główny",
+    "price": 6.61,
+    "paymentMethod":["app", "blik"],
+    "date": "15.10.2025"
+}
